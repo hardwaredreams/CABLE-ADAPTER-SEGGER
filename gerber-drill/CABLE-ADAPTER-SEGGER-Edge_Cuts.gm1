@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-02-20T14:02:34+09:00*%
+%TF.ProjectId,CABLE-ADAPTER-SEGGER,4341424c-452d-4414-9441-505445522d53,rev?*%
+%TF.SameCoordinates,PX3938700PY42c1d80*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-20 14:02:34*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y30000000D02*
+X40000000Y30000000D01*
+X40000000Y0D01*
+X0Y0D01*
+X0Y30000000D01*
+M02*
